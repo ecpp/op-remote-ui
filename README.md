@@ -2,6 +2,8 @@
 
 This project enables streaming the openpilot UI to a web browser, allowing for headless operation, remote debugging, and control. It captures UI screenshots at regular intervals and provides interactive touch, drag, and scroll functionality via a web interface.
 
+See: https://www.youtube.com/watch?v=7bqbqOVJRFc
+
 ## Overview
 
 The implementation works by:
